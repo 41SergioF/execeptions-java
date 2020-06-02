@@ -15,7 +15,7 @@ public class Program {
 		
 		Scanner scan = new Scanner(System.in);
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
-		
+		System.out.println("olá ");
 		try {
 			System.out.print("Room number: ");
 			int roomNumber = scan.nextInt();
